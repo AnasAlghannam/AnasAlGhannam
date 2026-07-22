@@ -47,4 +47,3 @@ I build and evaluate generative AI tools for clinical training.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anasalghannam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasalghannam/)
 [![Email](https://img.shields.io/badge/Email-anas.alghannam00%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anas.alghannam00@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://anasalghannam.github.io/Portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/qupolo_/)

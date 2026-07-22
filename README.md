@@ -4,7 +4,6 @@
 I build and evaluate generative AI tools for clinical training.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anasalghannam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasalghannam/)
-[![GitHub](https://img.shields.io/badge/GitHub-AnasAlghannam-181717?style=flat&logo=github&logoColor=white)](https://github.com/AnasAlghannam)
 
 ---
 
@@ -45,14 +44,9 @@ I build and evaluate generative AI tools for clinical training.
 
 ---
 
-## GitHub Stats
-
-![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasAlghannam&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnasAlghannam&layout=compact&hide_border=true)
-
----
-
 ## Links
 
-- **LinkedIn:** [anasalghannam](https://www.linkedin.com/in/anasalghannam/)
-- **GitHub:** [@AnasAlghannam](https://github.com/AnasAlghannam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anasalghannam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasalghannam/)
+[![Email](https://img.shields.io/badge/Email-anasziad2015%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anasziad2015@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://anasalghannam.github.io/Portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/qupolo_/)

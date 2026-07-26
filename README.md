@@ -1,6 +1,8 @@
 # Anas AlGhannam
 
-**Research Assistant @Qatar University** — GenAI integration in health professions education.
+**Research Assistant @Qatar University** 
+A Computer Engineer with AI/ML specialization. 
+Core focus: GenAI integration in health professions education.
 I develop and evaluate Generative AI solutions for using modern tools and frameworks.
 
 ---
@@ -15,8 +17,6 @@ I develop and evaluate Generative AI solutions for using modern tools and framew
 ---
 
 ## Tech Stack
-
-<!-- MENU: delete any badge you don't actually use. Keep this section tight — recruiters skim. -->
 
 **Languages**
 

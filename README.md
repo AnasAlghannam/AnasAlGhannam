@@ -1,7 +1,7 @@
 # Anas AlGhannam
 
-**Research Assistant @Qatar University** — applied AI in health professions education.
-I build and evaluate generative AI tools for clinical training.
+**Research Assistant @Qatar University** — GenAI integration in health professions education.
+I develop and evaluate Generative AI solutions for using modern tools and frameworks.
 
 ---
 

@@ -1,22 +1,43 @@
 # Anas AlGhannam
 
-**Research Assistant @Qatar University** 
-A Computer Engineer with AI/ML specialization. 
-Core focus: GenAI integration in health professions education.
-I develop and evaluate Generative AI solutions for using modern tools and frameworks.
+**Research Assistant @ Qatar University** · Computer Engineer specializing in AI/ML
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anasalghannam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasalghannam/)
+[![Email](https://img.shields.io/badge/Email-anas.alghannam00%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anas.alghannam00@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white)](https://anasalghannam.github.io/Portfolio/)
 
 ---
 
 ## About
 
 - Research Assistant at **Qatar University**, focused on generative AI applications in health professions education.
-- Building an **ISBAR handoff GenAI application** — helps students practice structured clinical handoff communication.
+- I develop and evaluate Generative AI solutions using modern tools and frameworks.
 - Background spans research, application development, and hardware prototyping.
 - Comfortable moving from a research question to a working prototype.
 
 ---
 
+## Current Work
+
+- **ISBAR Handoff GenAI Application** — helps health professions students practice structured clinical handoff communication (Identify, Situation, Background, Assessment, Recommendation).
+- **[Portfolio](https://anasalghannam.github.io/Portfolio/)** — selected projects and experience.
+
+---
+
 ## Tech Stack
+
+**AI / ML & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 **Languages**
 
@@ -29,7 +50,6 @@ I develop and evaluate Generative AI solutions for using modern tools and framew
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -45,19 +65,6 @@ I develop and evaluate Generative AI solutions for using modern tools and framew
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-**AI / ML & Data**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 **Databases**
 
@@ -82,8 +89,9 @@ I develop and evaluate Generative AI solutions for using modern tools and framew
 
 ---
 
-## Links
+## GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anasalghannam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anasalghannam/)
-[![Email](https://img.shields.io/badge/Email-anas.alghannam00%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:anas.alghannam00@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white)](https://anasalghannam.github.io/Portfolio/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anasalghannam&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasalghannam&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+</p>
